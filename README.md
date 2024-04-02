@@ -52,6 +52,24 @@ json-server --watch db.json --port 8080
 
 ## ScreenShots
 
-# Logo
+### Logo
 ![Logo](https://github.com/pkadam96/Digitalflake_Hackathon/blob/main/df-hackathon/src/assets/logo.png)
+
+### Login Page
+![Logo](https://github.com/pkadam96/Digitalflake_Hackathon/blob/main/df-hackathon/src/assets/Screenshots%20of%20UI/login.png)
+
+### Home Page
+![Logo](https://github.com/pkadam96/Digitalflake_Hackathon/blob/main/df-hackathon/src/assets/Screenshots%20of%20UI/HomePage.png)
+
+### Categories Page
+![Logo](https://github.com/pkadam96/Digitalflake_Hackathon/blob/main/df-hackathon/src/assets/Screenshots%20of%20UI/categoryPage.png)
+
+### Add Categories Page
+![Logo](https://github.com/pkadam96/Digitalflake_Hackathon/blob/main/df-hackathon/src/assets/Screenshots%20of%20UI/addCategory.png)
+
+### Products Page
+![Logo](https://github.com/pkadam96/Digitalflake_Hackathon/blob/main/df-hackathon/src/assets/Screenshots%20of%20UI/productsPage.png)
+
+### Add Products Page
+![Logo](https://github.com/pkadam96/Digitalflake_Hackathon/blob/main/df-hackathon/src/assets/Screenshots%20of%20UI/addProduct.png)
 
