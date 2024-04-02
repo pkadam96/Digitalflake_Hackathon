@@ -51,5 +51,5 @@ json-server --watch db.json --port 8080
 - JSON Server
 
 ## ScreenShots
-![Login Page](https://drive.google.com/file/d/1_xHqvyQg4BHyeGmv_kl75dz2s8x9uQ1G/view?usp=drive_link)
+![Logo](https://github.com/pkadam96/Digitalflake_Hackathon/blob/main/df-hackathon/src/assets/logo.png)
 
