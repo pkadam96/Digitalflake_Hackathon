@@ -43,13 +43,15 @@ json-server --watch db.json --port 8080
 
 
 ## Technology Stack
-
-- Typescript
-- reactJs
-- Tailwind
+- HTML
+- Tailwind CSS
 - Material UI
+- Typescript
+- ReactJs
 - JSON Server
 
 ## ScreenShots
+
+# Logo
 ![Logo](https://github.com/pkadam96/Digitalflake_Hackathon/blob/main/df-hackathon/src/assets/logo.png)
 
