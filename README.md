@@ -17,7 +17,7 @@ List out the key features of your application.
 
 
 ## Installation & Getting started
-- Clone repo to your local syatem
+- Clone repo to your local system
 ```bash
 git clone https://github.com/pkadam96/Digitalflake_Hackathon.git
 ```
@@ -31,8 +31,6 @@ npm run start
 ```bash
 json-server --watch db.json --port 8080
 ```
-
-Include screenshots as necessary.
 
 ## Credentials
 email - admin@digitalflake.com
