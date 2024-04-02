@@ -24,10 +24,15 @@ git clone https://github.com/pkadam96/Digitalflake_Hackathon.git
 ```bash
 cd df-hackathon
 ```
+- Install Dependencies
+```bash
+npm i
+```
+- Run development server
 ```bash
 npm run start
 ```
-- start JSON Server
+- To start backend_Server run the command in separate terminal
 ```bash
 json-server --watch db.json --port 8080
 ```
@@ -46,4 +51,5 @@ json-server --watch db.json --port 8080
 - JSON Server
 
 ## ScreenShots
+![Login Page](https://drive.google.com/file/d/1_xHqvyQg4BHyeGmv_kl75dz2s8x9uQ1G/view?usp=drive_link)
 
