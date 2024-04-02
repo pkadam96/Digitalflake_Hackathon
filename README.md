@@ -33,8 +33,8 @@ json-server --watch db.json --port 8080
 ```
 
 ## Credentials
-email - admin@digitalflake.com
-password - admin
+- email - admin@digitalflake.com
+- password - admin
 
 
 ## Technology Stack
