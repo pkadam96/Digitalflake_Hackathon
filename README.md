@@ -33,8 +33,10 @@ npm run start
 ```
 - To start backend server
 - Open another terminal
-  ```bash
+```bash
 cd df-hackathon
+```
+```bash
 cd backend
 ```
 ```bash
