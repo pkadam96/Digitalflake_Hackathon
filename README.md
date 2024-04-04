@@ -31,7 +31,12 @@ npm i
 ```bash
 npm run start
 ```
-- To start backend server run the command in separate terminal
+- To start backend server
+- Open another terminal
+  ```bash
+cd df-hackathon
+cd backend
+```
 ```bash
 json-server --watch db.json --port 8080
 ```
