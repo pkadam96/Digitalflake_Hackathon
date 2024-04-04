@@ -16,12 +16,10 @@ const AuthContext = createContext<AuthContextType>(initialAuthContext);
 
 export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
   const [isAuthenticated, setIsAuthenticated] = useState<boolean>(() => {
-    // Check if the user was previously authenticated
     return localStorage.getItem('isAuthenticated') === 'true';
   });
 
   useEffect(() => {
-    // When isAuthenticated changes, update localStorage
     localStorage.setItem('isAuthenticated', String(isAuthenticated));
   }, [isAuthenticated]);
 

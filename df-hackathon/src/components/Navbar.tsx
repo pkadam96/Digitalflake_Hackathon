@@ -6,13 +6,13 @@ import IconButton from '@mui/material/IconButton';
 import MenuItem from '@mui/material/MenuItem';
 import Menu from '@mui/material/Menu';
 import transparentLogo from '../assets/transparentLogo.png';
-import { useAuth } from '../contexts/AuthContext'; // Import the useAuth hook
+import { useAuth } from '../contexts/AuthContext'; 
 import { useState } from 'react';
-import { useNavigate } from 'react-router-dom'; // Import useNavigate for navigation
+import { useNavigate } from 'react-router-dom'; 
 
 const Navbar = () => {
-  const { logout } = useAuth(); // Get the logout function from the context
-  const navigate = useNavigate(); // Get the navigate function for navigation
+  const { logout } = useAuth(); 
+  const navigate = useNavigate(); 
 
   const [anchorEl, setAnchorEl] = useState<null | HTMLElement>(null);
 
@@ -25,8 +25,8 @@ const Navbar = () => {
   };
 
   const handleLogout = () => {
-    logout(); // Call the logout function from the context
-    navigate('/login'); // Navigate to the login page after logout
+    logout(); 
+    navigate('/login'); 
   };
 
   return (
