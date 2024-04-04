@@ -5,7 +5,6 @@ It is a small-scale application designed to efficiently manage products and cate
 
 
 ## Features
-List out the key features of your application.
 
 - Product Management: Users can add new products to the system.
 
@@ -32,7 +31,7 @@ npm i
 ```bash
 npm run start
 ```
-- To start backend_Server run the command in separate terminal
+- To start backend server run the command in separate terminal
 ```bash
 json-server --watch db.json --port 8080
 ```
@@ -53,7 +52,7 @@ json-server --watch db.json --port 8080
 ## ScreenShots
 
 ### Logo
-![Logo](https://github.com/pkadam96/Digitalflake_Hackathon/blob/main/df-hackathon/src/assets/logo.png)
+(https://github.com/pkadam96/Digitalflake_Hackathon/blob/main/df-hackathon/src/assets/logo.png)
 
 ### Login Page
 ![Logo](https://github.com/pkadam96/Digitalflake_Hackathon/blob/main/df-hackathon/src/assets/Screenshots%20of%20UI/login.png)
