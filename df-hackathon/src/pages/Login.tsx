@@ -9,13 +9,8 @@ import { Dashboard } from './Dashboard';
 
 const Login: React.FC = () => {
   const { login, isAuthenticated } = useAuth();
-
   const [error, setError] = useState('');
-  const [formData, setFormData] = useState({
-    email: '',
-    password: '',
-  });
-
+  const [formData, setFormData] = useState({email: '',password: '',});
   const [showPassword, setShowPassword] = useState(false);
 
   const handleClickShowPassword = () => setShowPassword((show) => !show);
@@ -35,11 +30,12 @@ const Login: React.FC = () => {
     e.preventDefault();
     try {
       await login(formData.email, formData.password);
-    } catch (error) {
-      setError('Login failed. Please check your credentials.');
+    } 
+    catch (error) {
+      setError('Login failed. Please check your credentials.');     
     }
   };
-
+  
   if (isAuthenticated) {
     return <Dashboard />;
   }
@@ -126,6 +122,7 @@ const Login: React.FC = () => {
         >
           Log In
         </Button>
+        <p className='text-center' style={{color:"red"}}>{error}</p>
       </form>
     </Box>
   );

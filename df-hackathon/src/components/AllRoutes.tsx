@@ -12,8 +12,8 @@ const AllRoutes: React.FC = () => {
   return (
     <>
       <Routes>
-        <Route path="/dashboard/home" element={<Dashboard/>}/>
-        <Route path="/" element={<Home />} />
+        <Route path="/dashboard" element={<Dashboard/>}/>
+        <Route path="/home" element={<Home />} />
         <Route path="/products" element={<Products />} />
         <Route path="/category" element={<Category/>} />
         <Route path="/category/add" element={<AddCategory/>}/>
