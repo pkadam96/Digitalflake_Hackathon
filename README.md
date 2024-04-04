@@ -52,23 +52,23 @@ json-server --watch db.json --port 8080
 ## ScreenShots
 
 ### Logo
-(https://github.com/pkadam96/Digitalflake_Hackathon/blob/main/df-hackathon/src/assets/logo.png)
+![Logo](https://github.com/pkadam96/Digitalflake_Hackathon/blob/main/df-hackathon/src/assets/logo.png)
 
 ### Login Page
-![Logo](https://github.com/pkadam96/Digitalflake_Hackathon/blob/main/df-hackathon/src/assets/Screenshots%20of%20UI/login.png)
+![Login](https://github.com/pkadam96/Digitalflake_Hackathon/blob/main/df-hackathon/src/assets/Screenshots%20of%20UI/login.png)
 
 ### Home Page
-![Logo](https://github.com/pkadam96/Digitalflake_Hackathon/blob/main/df-hackathon/src/assets/Screenshots%20of%20UI/HomePage.png)
+![Home](https://github.com/pkadam96/Digitalflake_Hackathon/blob/main/df-hackathon/src/assets/Screenshots%20of%20UI/HomePage.png)
 
 ### Categories Page
-![Logo](https://github.com/pkadam96/Digitalflake_Hackathon/blob/main/df-hackathon/src/assets/Screenshots%20of%20UI/categoryPage.png)
+![Category](https://github.com/pkadam96/Digitalflake_Hackathon/blob/main/df-hackathon/src/assets/Screenshots%20of%20UI/categoryPage.png)
 
 ### Add Categories Page
-![Logo](https://github.com/pkadam96/Digitalflake_Hackathon/blob/main/df-hackathon/src/assets/Screenshots%20of%20UI/addCategory.png)
+![Add category](https://github.com/pkadam96/Digitalflake_Hackathon/blob/main/df-hackathon/src/assets/Screenshots%20of%20UI/addCategory.png)
 
 ### Products Page
-![Logo](https://github.com/pkadam96/Digitalflake_Hackathon/blob/main/df-hackathon/src/assets/Screenshots%20of%20UI/productsPage.png)
+![Products](https://github.com/pkadam96/Digitalflake_Hackathon/blob/main/df-hackathon/src/assets/Screenshots%20of%20UI/productsPage.png)
 
 ### Add Products Page
-![Logo](https://github.com/pkadam96/Digitalflake_Hackathon/blob/main/df-hackathon/src/assets/Screenshots%20of%20UI/addProduct.png)
+![Add Products](https://github.com/pkadam96/Digitalflake_Hackathon/blob/main/df-hackathon/src/assets/Screenshots%20of%20UI/addProduct.png)
 
